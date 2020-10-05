@@ -1,0 +1,13 @@
+D:\Aprendiendo\EF\cualquiercosa\bin\Debug\netcoreapp3.1\CualquierCosa.exe
+D:\Aprendiendo\EF\cualquiercosa\bin\Debug\netcoreapp3.1\CualquierCosa.deps.json
+D:\Aprendiendo\EF\cualquiercosa\bin\Debug\netcoreapp3.1\CualquierCosa.runtimeconfig.json
+D:\Aprendiendo\EF\cualquiercosa\bin\Debug\netcoreapp3.1\CualquierCosa.runtimeconfig.dev.json
+D:\Aprendiendo\EF\cualquiercosa\bin\Debug\netcoreapp3.1\CualquierCosa.dll
+D:\Aprendiendo\EF\cualquiercosa\bin\Debug\netcoreapp3.1\CualquierCosa.pdb
+D:\Aprendiendo\EF\cualquiercosa\obj\Debug\netcoreapp3.1\CualquierCosa.csprojAssemblyReference.cache
+D:\Aprendiendo\EF\cualquiercosa\obj\Debug\netcoreapp3.1\CualquierCosa.AssemblyInfoInputs.cache
+D:\Aprendiendo\EF\cualquiercosa\obj\Debug\netcoreapp3.1\CualquierCosa.AssemblyInfo.cs
+D:\Aprendiendo\EF\cualquiercosa\obj\Debug\netcoreapp3.1\CualquierCosa.csproj.CoreCompileInputs.cache
+D:\Aprendiendo\EF\cualquiercosa\obj\Debug\netcoreapp3.1\CualquierCosa.dll
+D:\Aprendiendo\EF\cualquiercosa\obj\Debug\netcoreapp3.1\CualquierCosa.pdb
+D:\Aprendiendo\EF\cualquiercosa\obj\Debug\netcoreapp3.1\CualquierCosa.genruntimeconfig.cache
